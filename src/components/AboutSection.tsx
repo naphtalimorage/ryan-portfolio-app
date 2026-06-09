@@ -59,7 +59,7 @@ const AboutSection = () => {
                         About Me
                     </p>
                     <h2 className="font-display text-4xl md:text-5xl font-light text-foreground mb-6">
-                        Hello, I'm <span className="italic">Senet</span>
+                        Hello, I'm <span className="italic">San</span>
                     </h2>
                     <div className="space-y-4 text-muted-foreground font-light leading-relaxed">
                         <p>

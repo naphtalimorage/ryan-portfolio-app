@@ -51,7 +51,7 @@ const Footer = () => {
                 </div>
                 <div className="border-t border-secondary-foreground/10 pt-8 text-center">
                     <p className="text-secondary-foreground/40 text-xs tracking-wider">
-                        © 2023 Senet Ryan Photography. All rights reserved.
+                        © 2023 San Photography. All rights reserved.
                     </p>
                 </div>
             </div>
