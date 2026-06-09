@@ -36,7 +36,7 @@ const Logo: React.FC<LogoProps> = ({ className = "" }) => {
                 <circle cx="20" cy="20" r="18" stroke="currentColor" strokeWidth="0.5" strokeDasharray="2 2" />
             </svg>
             <span className="font-display text-xl md:text-2xl font-light tracking-[0.2em] uppercase">
-                Senet <span className="italic font-normal">Ryan</span>
+                San <span className="italic font-normal">Photography</span>
             </span>
         </div>
     );
