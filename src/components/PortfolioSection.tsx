@@ -8,11 +8,11 @@ import { supabase } from "@/intergration/supabase/client.ts";
 // Fallback static images
 import weddingImg from "@/assets/#maasai #kenya #wedding.jpg";
 import portraitImg from "@/assets/Tanzania.jpg";
-import eventImg from "@/assets/Maasai Tribe History, Language, Culture….jpg";
-import lifestyleImg from "@/assets/The jungle trembles as the mighty #lion lets out a….jpg";
-import hero1 from "@/assets/🌍 4 Days Lake Manyara, Ngorongoro & Tarangire….jpg";
-import hero2 from "@/assets/🛖 Meet the Maasai Tribe of Tanzania 🇹🇿  Step….jpg";
-import hero3 from "@/assets/6 Days Tanzania Safari is a Tanzania Luxury tented….jpg";
+import eventImg from "@/assets/maasai.jpg";
+import lifestyleImg from "@/assets/jungle.jpg";
+import hero1 from "@/assets/lake.jpg";
+import hero2 from "@/assets/tribe.jpg";
+import hero3 from "@/assets/safari.jpg";
 
 const categories = ["All", "Weddings", "Portraits", "Events", "Lifestyle"];
 

@@ -8,8 +8,8 @@ import  hero4 from "@/assets/Join the 10 days wildlife photograph safari….jpg"
 import  hero6 from "@/assets/africa,wildlife,nature,african,sky,golden….jpg"
 import  hero7 from "@/assets/Kenya safari guide_ 10 unforgettable wildlife….jpg"
 import  hero8 from "@/assets/Leopard in the Golden Savannah 🐆🌾__Pin your….jpg"
-import  hero9 from "@/assets/🌍 4 Days Lake Manyara, Ngorongoro & Tarangire….jpg"
-import  hero5 from "@/assets/Maasai Tribe History, Language, Culture….jpg"
+import  hero9 from "@/assets/lake.jpg"
+import  hero5 from "@/assets/maasai.jpg"
 
 const slides = [
     { image: hero7, subtitle: "Kenya Safaris" },
